@@ -14,7 +14,7 @@
 
 ### Project Overview
 - It is python based web app project which analyses and visualizes whatsapp chats. 
-- The analysis done on the basis of total no. of messages, total word count, total media shared, total linked shared.
+- The analysis done on the basis of total no. of messages, total word count, total media shared, total links shared.
 - It shows bar graph for most busy day and most busy month.
 - It shows graph for monthly and daily time line.
 - It shows weekly activity heat map.
